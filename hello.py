@@ -2,6 +2,7 @@
 This module provides a simple greeting function.
 """
 
+
 def main() -> None:
     """Print a hello message."""
     print("Hello")
